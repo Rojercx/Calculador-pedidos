@@ -1,2 +1,5 @@
-- Mejoas en el proceso de actualización remota
-- Barra de progreso añaidida la proceso de actualización
+Si estas viendo esto el proceso de actualizació remota debería funcionar correctamente
+- Cada vez que te aparezca esta ventana de ahora en adelante significa
+  que nueva versión del programa está disponible
+- Aquí se anunciarán los cambios de la nueva versión
+- Para utilizar el programa suele ser obligatorio actualizar
