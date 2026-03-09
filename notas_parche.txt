@@ -1,6 +1,10 @@
 Si estas viendo esto el proceso de actualizació remota debería funcionar correctamente
-- Cada vez que te aparezca esta ventana de ahora en adelante significa que una nueva
-  versión del programa está disponible
+- El funcionamiento clave sigue siendo el mismo, ejecuta el programa principal en la misma carpeta que la tabla del Excel
+  y no necesitas tocar el resto de archivos
+- El ejecutable "updater" no necesita ser ejecutado manualmente, aunque en caso de ejecución manual cuando no hay ninguna versión nueva
+  tan solo se reinstalarán los mismos archivos y no debería ocurrir ningún problema
+- Cada vez que te aparezca esta ventana de ahora en adelante significa que una nueva versión del programa está disponible
+- El propio programa principal se enargará de detectar cualquier actualización disponible al iniciarse, si no dice nada, tienes la última versión
+- El programa principal se inicializará automáticamente una vez termine la instalación, no toques nada hasta que esta finalice
 - En esta ventana se anunciarán todos los cambios y novedades de la nueva versión
-- El programa se inicializará automáticamente una vez termine la instalación
-- Para utilizar el programa suele ser obligatorio actualizar
+- Para poder utilizar el programa suele ser obligatorio actualizar (en caso de que haya una claro)
