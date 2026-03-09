@@ -1,5 +1,5 @@
 Si estas viendo esto el proceso de actualizació remota debería funcionar correctamente
-- Cada vez que te aparezca esta ventana de ahora en adelante significa
-  que nueva versión del programa está disponible
-- Aquí se anunciarán los cambios de la nueva versión
+- Cada vez que te aparezca esta ventana de ahora en adelante significa que una nueva
+  versión del programa está disponible
+- En esta ventana se anunciarán todos los cambios y novedades de la nueva versión
 - Para utilizar el programa suele ser obligatorio actualizar
