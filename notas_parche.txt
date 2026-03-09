@@ -2,4 +2,5 @@ Si estas viendo esto el proceso de actualizació remota debería funcionar corre
 - Cada vez que te aparezca esta ventana de ahora en adelante significa que una nueva
   versión del programa está disponible
 - En esta ventana se anunciarán todos los cambios y novedades de la nueva versión
+- El programa se inicializará automáticamente una vez termine la instalación
 - Para utilizar el programa suele ser obligatorio actualizar
