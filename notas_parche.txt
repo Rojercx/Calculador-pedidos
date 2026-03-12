@@ -1,8 +1,8 @@
-ELIMINAR LINEAS!
-- Ahora es posible borrar las lineas individualmente en la sección de costes generales, tan solo clica en el icono de la papelera
-- ATENCIÓN: Actualmente borrar la línea no pide confirmación y no se puede deshacer, si te arrepientes vuelve a escribirla a mano
-- Eliminar la única línea hará que vuelva a esperar un pedido desde cero, pero con el mismo formato de tubo ya introducido
-- Pequeños cambios de interfaz
-- "Precio de coste" en la ventana "Información adicional" ya no incluye precio de producción ni preparación, solo el material sin margen
-- Pequeños ajustes de archivos internos
-Cualquier cambio o error detectado en la nueva versió no dudes en contactar
+ ELIMINAR LINEAS!
+ - Ahora es posible borrar las lineas individualmente en la sección de costes generales, tan solo clica en el icono de la papelera
+ - ATENCIÓN: Actualmente borrar la línea no pide confirmación y no se puede deshacer, si te arrepientes vuelve a escribirla a mano
+ - Eliminar la única línea hará que vuelva a esperar un pedido desde cero, pero con el mismo formato de tubo ya introducido
+ - Pequeños cambios de interfaz
+ - "Precio de coste" en la ventana "Información adicional" ya no incluye precio de producción ni preparación, solo el material sin margen
+ - Pequeños ajustes de archivos internos
+ Cualquier cambio o error detectado en la nueva versió no dudes en contactar
