@@ -1,8 +1,6 @@
- ELIMINAR LINEAS!
- - Ahora es posible borrar las lineas individualmente en la sección de costes generales, tan solo clica en el icono de la papelera
- - ATENCIÓN: Actualmente borrar la línea no pide confirmación y no se puede deshacer, si te arrepientes vuelve a escribirla a mano
- - Eliminar la única línea hará que vuelva a esperar un pedido desde cero, pero con el mismo formato de tubo ya introducido
- - Pequeños cambios de interfaz
- - "Precio de coste" en la ventana "Información adicional" ya no incluye precio de producción ni preparación, solo el material sin margen
- - Pequeños ajustes de archivos internos
- Cualquier cambio o error detectado en la nueva versió no dudes en contactar
+ - Se ha solucionado error en el que la cantidad de tubos se igualaba a cero
+ - Tubos totales del pedido ahora es más preciso y genera menos errores
+ - Leves ajustes de interfaz en la pestaña "Información adicional"
+ - Se ha solucionado problema en que el formato del tubo no se reiniciaba correctamente. Ahora:
+   Si eliminas el pedido borrando la línea se mantiene el formato, si pulsas "Cambio formato" se elimina
+ Cualquier sugerencia o error detectado en la nueva versión no dudes en contactar
