@@ -1,7 +1,9 @@
  - Se ha solucionado error en el que la cantidad de tubos se igualaba a cero
  - Tubos totales del pedido ahora es más preciso y genera menos errores
- - Leves ajustes de interfaz en la pestaña "Información adicional"
- - Se ha solucionado problema en que el formato del tubo no se reiniciaba correctamente. Ahora:
-   Si eliminas el pedido borrando la línea se mantiene el formato, si pulsas "Cambio formato" se elimina
+ - Se ha solucionado problema en que el formato del tubo no se reiniciaba correctamente
+ - Modificaciones de interfaz en la pestaña "Información adicional"
+ - Se han añadido datos del transporte, diseño, margen y preparación a la pestaña "Información Adicional"
+ - Cambios de funcionamiento interno
+ - Arreglo de errores menores
 
 Cualquier sugerencia o error detectado en la nueva versión no dudes en contactar
