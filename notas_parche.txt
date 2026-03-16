@@ -6,5 +6,6 @@ Pedidos pequeños:
  - Se han realizado leves cambios de interfaz y funcionamiento a la pestaña "Información adicional"
  - La pestaña de "Información adicional" ahora se representa como una 'i' azul
  - Cambios de funcionamiento interno
+ - Se ha arreglado error donde el coste de producción por hora afectaba a los pedidos pequeños
 
 Cualquier sugerencia o error detectado en la nueva versión no dudes en contactar
