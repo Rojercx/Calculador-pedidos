@@ -1,9 +1,10 @@
- - Se ha solucionado error en el que la cantidad de tubos se igualaba a cero
- - Tubos totales del pedido ahora es más preciso y genera menos errores
- - Se ha solucionado problema en que el formato del tubo no se reiniciaba correctamente
- - Modificaciones de interfaz en la pestaña "Información adicional"
- - Se han añadido datos del transporte, diseño, margen y preparación a la pestaña "Información Adicional"
+Pedidos pequeños:
+ - Se ha implementado la opción de realizar pedidos pequeños
+ - Dicha operación se debe realizar antes de iniciar el pedido y no admitira lineas que superen los 10 tubos totales
+ - Una vez activada la opción "Pedido pequeño" funciona exactamente igual que la estándar obviando los tiempos de corte
+ - Los cálculos de producción se hacer internamente y se pueden consultar en "Información Adicional", sustituyendo precio máquina    
+ - Se han realizado leves cambios de interfaz y funcionamiento a la pestaña "Información adicional"
+ - La pestaña de "Información adicional" ahora se representa como una 'i' azul
  - Cambios de funcionamiento interno
- - Arreglo de errores menores
 
 Cualquier sugerencia o error detectado en la nueva versión no dudes en contactar
