@@ -1,9 +1,11 @@
- - Se han solucionado errores relacionados a la actualización a tiempo real del pedido
- - Se ha arreglado precio de preparació y el precio máquina que generaban unos cálculos incorrectos
- - Se ha arreglado error donde el formato del tubo no desaparecía correctamente tras pulsar "Cambio formato"
- - Ahora puedes ver los metros totales de pedido y el precio total material en la pestaña de "Información adicional"
- - El coste de material en la pestaña de información adicional ahora se muestra correctamente
- - Se han añadido descripciones informativas a ciertos elementos de la interfaz
- - Cambios de funcionamiento interno
+ - Grandes cambios en la interfaz; se han transladado las funciones secundarias a una barra de herramientas lateral a la izquierda
+ - Las funciones principales se han mantenido en el apartado de especificaciones en la parte superior
+ - Se han añadido nuevas funciones como la Búsqueda de precio, Contraste y Cálculo tiempos de corte
+ - Búsqueda de precio (icono de una lupa): Introduce un formato de tubo y te dirá su valor en €/m
+ - Contraste (barras verticales): Permite comparar las ganancias/pérdidas del pedido si se alteraran los valores secundarios, disponiendo de mas opciones disponibles   
+ - Cálculo tiempos de corte: En vez de introducir los segundos de corte permite introducir los taladros e ingletes para calcular el tiempo medio una tabla
+ - La nueva tabla de tiempos debe ubicarse en la misma carpeta que el programa, tal y como la de los precios de los tubos
+ - En caso de no encontrarse se comunicará al usuario del error y proseguirá con datos en línea
+ - Grandes cambios de funcionamiento interno
 
 Cualquier sugerencia o error detectado en la nueva versión no dudes en contactar
