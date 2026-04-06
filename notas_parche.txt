@@ -8,7 +8,7 @@ CAMBIOS RELEVANTES DE INTERFAZ Y FUNCIONAMIENTO
  - Cálculo tiempos de corte: En vez de introducir los segundos de corte permite introducir los taladros e ingletes para calcular el tiempo medio una tabla
  - La nueva tabla de tiempos debe ubicarse en la misma carpeta que el programa, tal y como la de los precios de los tubos
  - En caso de no encontrarse se comunicará al usuario del error y proseguirá con datos en línea
- - Ante cualquier duda sobre los nuevos iconos tan solo mantenga el cursor sobre el icono durante 0'7s y aparecerá una breve descripción
+ - Ante cualquier duda sobre los nuevos iconos tan solo mantenga el cursor sobre el icono durante 0,7s y aparecerá una breve descripción
  - Grandes cambios de funcionamiento interno
 
 Cualquier sugerencia o error detectado en la nueva versión no dudes en contactar
