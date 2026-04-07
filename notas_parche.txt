@@ -1,4 +1,4 @@
-CAMBIOS RELEVANTES DE INTERFAZ Y FUNCIONAMIENTO
+PARCHE DE ARREGLOS Y MEJORAS
 
 - Grandes cambios en la interfaz; se han transladado las funciones secundarias a una barra de herramientas lateral a la izquierda
  - Las funciones principales se han mantenido en el apartado de especificaciones en la parte superior
@@ -10,5 +10,6 @@ CAMBIOS RELEVANTES DE INTERFAZ Y FUNCIONAMIENTO
  - En caso de no encontrarse se comunicará al usuario del error y proseguirá con datos en línea
  - Ante cualquier duda sobre los nuevos iconos tan solo mantenga el cursor sobre el icono durante 0,7s y aparecerá una breve descripción
  - Grandes cambios de funcionamiento interno
+ - Se han solucionado diferentes fallos y errores mínimos
 
 Cualquier sugerencia o error detectado en la nueva versión no dudes en contactar
