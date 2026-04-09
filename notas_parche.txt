@@ -1,15 +1,12 @@
 PARCHE DE ARREGLOS Y MEJORAS
-
-- Grandes cambios en la interfaz; se han transladado las funciones secundarias a una barra de herramientas lateral a la izquierda
- - Las funciones principales se han mantenido en el apartado de especificaciones en la parte superior
- - Se han añadido nuevas funciones como la Búsqueda de precio, Contraste y Cálculo tiempos de corte
- - Búsqueda de precio (icono de una lupa): Introduce un formato de tubo y te dirá su valor en €/m
- - Contraste (barras verticales): Permite comparar las ganancias/pérdidas del pedido si se alteraran los valores secundarios, disponiendo de mas opciones disponibles   
+  
  - Cálculo tiempos de corte: En vez de introducir los segundos de corte permite introducir los taladros e ingletes para calcular el tiempo medio una tabla
  - La nueva tabla de tiempos debe ubicarse en la misma carpeta que el programa, tal y como la de los precios de los tubos
  - En caso de no encontrarse se comunicará al usuario del error y proseguirá con datos en línea
- - Ante cualquier duda sobre los nuevos iconos tan solo mantenga el cursor sobre el icono durante 0,7s y aparecerá una breve descripción
- - Grandes cambios de funcionamiento interno
+ - Cambios de funcionamiento interno
+ - Se ha arreglado el acceso al Excel local de 'Calculo tiempos.xlsx'
+ - Se ha ampliado el margen de aceptación del formato de los tubos respecto a la tabla de segundos de corte
  - Se han solucionado diferentes fallos y errores mínimos
+ - Leves ajustes de interfaz
 
 Cualquier sugerencia o error detectado en la nueva versión no dudes en contactar
