@@ -1,12 +1,11 @@
-PARCHE DE ARREGLOS Y MEJORAS
-  
- - Cálculo tiempos de corte: En vez de introducir los segundos de corte permite introducir los taladros e ingletes para calcular el tiempo medio una tabla
- - La nueva tabla de tiempos debe ubicarse en la misma carpeta que el programa, tal y como la de los precios de los tubos
- - En caso de no encontrarse se comunicará al usuario del error y proseguirá con datos en línea
- - Cambios de funcionamiento interno
- - Se ha arreglado el acceso al Excel local de 'Calculo tiempos.xlsx'
- - Se ha ampliado el margen de aceptación del formato de los tubos respecto a la tabla de segundos de corte
+ARREGLOS E IMPLEMENTACIONES MÍNIMAS
+
+ - Se ha sustituido la columna de 'Tiempo de corte' por el precio de producción de la pieza en 'Información adicional'
+ - Ahora se puede aplicar el 20% del coste material desde la ventana principal
+ - El precio de preparación se aplica automáticamente dependiendo de la cantidad de tubos cuando se trata de un pedido pequeño  
+ - Ahora es posible modificar la longitud del tubo base en mitad de un pedido, siempre y cuando sea posible
  - Se han solucionado diferentes fallos y errores mínimos
+ - Pequeños cambios de optimización interna
  - Leves ajustes de interfaz
 
 Cualquier sugerencia o error detectado en la nueva versión no dudes en contactar
