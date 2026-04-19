@@ -1,11 +1,11 @@
 ARREGLOS E IMPLEMENTACIONES MÍNIMAS
 
  - Se ha agregado la opción de agregar el precio de corte manualmente en 'Pedido pequeño'   
- - Ahora todos los cambios son mucho mas visibles
+ - Ahora todos los cambios son mucho más visibles
  - Arreglo de diversos fallos y errores
  - La función 'Buscar precio' vuelve a funcionar correctamente
  - La función 'Contrastar' vuelve a funcionar correctamente
- - Se ha refinado la interacción entre 'Pedido pequeño' y 'Calculo tiempos corte'
+ - Se ha refinado la interacción entre 'Pedido pequeño' y 'Cálculo tiempos corte'
  - Cambio de icono a 'Pedido pequeño'
  - Pequeños cambios de optimización interna
  - Ajustes de interfaz
