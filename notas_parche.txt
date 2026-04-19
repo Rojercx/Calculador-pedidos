@@ -1,11 +1,12 @@
 ARREGLOS E IMPLEMENTACIONES MÍNIMAS
 
- - Se ha sustituido la columna de 'Tiempo de corte' por el precio de producción de la pieza en 'Información adicional'
- - Ahora se puede aplicar el 20% del coste material desde la ventana principal
- - El precio de preparación se aplica automáticamente dependiendo de la cantidad de tubos cuando se trata de un pedido pequeño  
- - Ahora es posible modificar la longitud del tubo base en mitad de un pedido, siempre y cuando sea posible
- - Se han solucionado diferentes fallos y errores mínimos
+ - Se ha agregado la opción de agregar el precio de corte manualmente en 'Pedido pequeño'   
+ - Ahora todos los cambios son mucho mas visibles
+ - Arreglo de diversos fallos y errores
+ - La función 'Buscar precio' vuelve a funcionar correctamente
+ - La función 'Contrastar' vuelve a funcionar correctamente
+ - Se ha refinado la interacción entre 'Pedido pequeño' y 'Calculo tiempos corte'
  - Pequeños cambios de optimización interna
- - Leves ajustes de interfaz
+ - Ajustes de interfaz
 
 Cualquier sugerencia o error detectado en la nueva versión no dudes en contactar
