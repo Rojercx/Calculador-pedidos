@@ -6,6 +6,7 @@ ARREGLOS E IMPLEMENTACIONES MÍNIMAS
  - La función 'Buscar precio' vuelve a funcionar correctamente
  - La función 'Contrastar' vuelve a funcionar correctamente
  - Se ha refinado la interacción entre 'Pedido pequeño' y 'Calculo tiempos corte'
+ - Cambio de icono a 'Pedido pequeño'
  - Pequeños cambios de optimización interna
  - Ajustes de interfaz
 
