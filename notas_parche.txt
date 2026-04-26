@@ -1,9 +1,11 @@
-MEJORAS EN LA BARRA HERRAMIENTAS
+CÁLCULO CON TUBOS PERFILADOS DISPONIBLES
 
- - Nueva función, Multiplicar: Permite multiplicar o dividir el pedido entero por un valor
- - Como siempre la operación actualizará el pedido a tiempo real, si el valor introducido es válido  
- - Atajos de teclado, cada función tiene asignada una tecla para agilizar más el flujo de trabajo
- - Pequeños cambios a nivel interno
- - Leves ajustes de interfaz
+ - Ya se puede cambiar el tipo de tubo a tubos perfilados: Ángulos, UPN, IPN, IPE, HEB, HEA, T
+ - Será necesario el reemplazo del archivo con la tabla de precios por uno actualizado
+ - Ahora se puede implementar directamente el 20% al precio material base, sea directo o personalizado 
+ - Se ha habilitado la posibilidad de establecer una longitud de tubo presonalizada
+ - Cambios de funcionamiento interno
+ - Ajustes de interfaz
+ - Arreglo de errores y fallos mínimos
 
 Cualquier sugerencia o error detectado en la nueva versión no dudes en contactar
