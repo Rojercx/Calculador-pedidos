@@ -2,10 +2,11 @@ CÁLCULO CON TUBOS PERFILADOS DISPONIBLES
 
  - Ya se puede cambiar el tipo de tubo a tubos perfilados: Ángulos, UPN, IPN, IPE, HEB, HEA, T
  - Será necesario el reemplazo del archivo con la tabla de precios por uno actualizado
- - Ahora se puede implementar directamente el 20% al precio material base, sea directo o personalizado 
+ - La opción de tubos perflados ya debería funcionar debidamente
+ - Se ha arreglado un error donde el cálculo de tubos para pedidos superiores a 2 líneas iba demasiado lento 
+ - Ahora se puede implementar directamente el 20% al precio material base, sea directo o personalizado
  - Se ha habilitado la posibilidad de establecer una longitud de tubo presonalizada
  - Cambios de funcionamiento interno
  - Ajustes de interfaz
- - Arreglo de errores y fallos mínimos
 
 Cualquier sugerencia o error detectado en la nueva versión no dudes en contactar
