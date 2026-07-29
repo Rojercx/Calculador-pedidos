@@ -1,12 +1,18 @@
-CÁLCULO CON TUBOS PERFILADOS DISPONIBLES
+  ¡¡ NUEVA ACTUALIZACIÓN!!
+CLASIFICACIÓN DE PEDIDOS
 
- - Ya se puede cambiar el tipo de tubo a tubos perfilados: Ángulos, UPN, IPN, IPE, HEB, HEA, T
- - Será necesario el reemplazo del archivo con la tabla de precios por uno actualizado
- - La opción de tubos perfilados ya debería funcionar debidamente
- - Se ha arreglado un error donde el cálculo de tubos para pedidos superiores a 2 líneas iba demasiado lento 
- - Ahora se puede implementar directamente el 20% al precio material base, sea directo o personalizado
- - Se ha habilitado la posibilidad de establecer una longitud de tubo presonalizada
- - Cambios de funcionamiento interno
- - Ajustes de interfaz
+ - A partir de ahora se distinguirán entre ofertas y pedidos,
+donde la oferta es el conjunto de tubos de un mismo formato y un pedido el conjunto de estos para un mismo cliente.
+El programa funciona igual que siempre, solo que cambiar el formato te mantiene en el mismo pedido. Para finalizar el pedido pulsa
+el nuevo botón de 'Finalizar Pedido' y esto iniciará uno nuevo automáticamente.
+Los pedidos finalizados se pueden reanalizar, editar o eliminar en la nueva pestaña e 'Guardados'.
+Este nuevo sistema permitirá implementar en un futuro la descarga de pedidos a través de documento pdf directamente.
+Cualquier duda o sugerencia sobre el funcionamiento, vocabulario o error respecto a los pedidos no dudes en contactar
+
+ - Se puede consultar todos los formatos del pedido desde 'Información Adicional', gracias a un desplegable
+ - Se han actualizado gráficamente los valores incorrectos a la hora de introducir los datos
+ - Varios errores solucionados
+ - Varios ajustes de interfaz
+ - Cambio de funcionamiento interno masivo
 
 Cualquier sugerencia o error detectado en la nueva versión no dudes en contactar
