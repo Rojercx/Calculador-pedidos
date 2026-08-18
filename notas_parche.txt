@@ -1,18 +1,12 @@
-  ¡¡ NUEVA ACTUALIZACIÓN!!
-CLASIFICACIÓN DE PEDIDOS
+PULIDO DE LAS NUEVAS FUNCIONES
 
- - A partir de ahora se distinguirán entre ofertas y pedidos,
-donde la oferta es el conjunto de tubos de un mismo formato y un pedido el conjunto de estos para un mismo cliente.
-El programa funciona igual que siempre, solo que cambiar el formato te mantiene en el mismo pedido. Para finalizar el pedido pulsa
-el nuevo botón de 'Finalizar Pedido' y esto iniciará uno nuevo automáticamente.
-Los pedidos finalizados se pueden reanalizar, editar o eliminar en la nueva pestaña e 'Guardados'.
-Este nuevo sistema permitirá implementar en un futuro la descarga de pedidos a través de documento pdf directamente.
-Cualquier duda o sugerencia sobre el funcionamiento, vocabulario o error respecto a los pedidos no dudes en contactar
-
- - Se puede consultar todos los formatos del pedido desde 'Información Adicional', gracias a un desplegable
- - Se han actualizado gráficamente los valores incorrectos a la hora de introducir los datos
+ - Las función de pedidos se ha terminado de refinar, adecuando correctamente la interfaz para todos los valores
+ - Finalmente se puede usar la función de "Contraste" correctamente
+ - Ahora se puede mover libremente entre ofertas del mismo pedido desde "Cambiar Formato"
+ - Es posible modificar el nombre de los pedidos
+ - Se han arreglado algunos errores en la ventana de "Información adicional"
  - Varios errores solucionados
- - Varios ajustes de interfaz
- - Cambio de funcionamiento interno masivo
+ - Leves ajustes de interfaz
+ - Varios cambios de funcionamiento interno
 
 Cualquier sugerencia o error detectado en la nueva versión no dudes en contactar
