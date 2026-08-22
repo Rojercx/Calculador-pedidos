@@ -1,8 +1,9 @@
 ACTUALIZACIÓN DE MANTENIMIENTO
 
+ - Se ha solucionado error al borrar líneas en ofertas con 2 líneas   
  - Se han arreglado errores y fallos menores
  - Mejora de interfaz en algunas funciones
  - Nuevas animaciones y mensajes
  - Leves cambios a nivel de funcionamiento interno
 
-Cualquier sugerencia o error detectado en la nueva versión no dudes en contactar
+Cualquier sugerencia o error detectado en la nueva versión no dudes en contactar    
