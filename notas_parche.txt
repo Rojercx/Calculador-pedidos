@@ -1,12 +1,8 @@
-PULIDO DE LAS NUEVAS FUNCIONES
+ACTUALIZACIÓN DE MANTENIMIENTO
 
- - Las función de pedidos se ha terminado de refinar, adecuando correctamente la interfaz para todos los valores
- - Finalmente se puede usar la función de "Contraste" correctamente
- - Ahora se puede mover libremente entre ofertas del mismo pedido desde "Cambiar Formato"
- - Es posible modificar el nombre de los pedidos
- - Se han arreglado algunos errores en la ventana de "Información adicional"
- - Varios errores solucionados
- - Leves ajustes de interfaz
- - Varios cambios de funcionamiento interno
+ - Se han arreglado errores y fallos menores
+ - Mejora de interfaz en algunas funciones
+ - Nuevas animaciones y mensajes
+ - Leves cambios a nivel de funcionamiento interno
 
 Cualquier sugerencia o error detectado en la nueva versión no dudes en contactar
