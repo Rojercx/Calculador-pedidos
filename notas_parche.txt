@@ -1,9 +1,12 @@
-ACTUALIZACIÓN DE MANTENIMIENTO
+CÁCLCULO DE TIEMPOS MEJORADO
 
- - Se ha solucionado error al borrar líneas en ofertas con 2 líneas   
- - Se han arreglado errores y fallos menores
- - Mejora de interfaz en algunas funciones
- - Nuevas animaciones y mensajes
- - Leves cambios a nivel de funcionamiento interno
+ - La función "Cálculo tiempo corte" se ha mejorado y ampliado su funcionalidad
+ - Ya es posible añadir ventanas a los tubos, estableciendo las dimensiones/diámetro y la cantidad
+ - Cada tubo puede llevar ventanas ilimitadas
+ - La capacidad de los ingletes se ha aumentado hasta 10
+ - Se ha arreglado error donde no aceptaba 0 taladros
+ - Leves mejoras de interfaz sobre dicha función
+ - Arreglo de errores  menores
+ - Cambios a nivel de funcionamiento interno
 
 Cualquier sugerencia o error detectado en la nueva versión no dudes en contactar    
