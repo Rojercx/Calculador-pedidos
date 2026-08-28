@@ -8,5 +8,6 @@ CÁCLCULO DE TIEMPOS MEJORADO
  - Leves mejoras de interfaz sobre dicha función
  - Arreglo de errores  menores
  - Cambios a nivel de funcionamiento interno
+ - ATENCIÓN: SERÁ NECESARIO CAMBIAR EL DOCUMENTO "Calculo tiempos.xlsx" PARA EL CORRECTO FUNCIONAMIENTO
 
 Cualquier sugerencia o error detectado en la nueva versión no dudes en contactar    
