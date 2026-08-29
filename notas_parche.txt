@@ -1,13 +1,14 @@
 CÁCLCULO DE TIEMPOS MEJORADO
 
  - La función "Cálculo tiempo corte" se ha mejorado y ampliado su funcionalidad
- - Ya es posible añadir ventanas a los tubos, estableciendo las dimensiones/diámetro y la cantidad
+ - Ya es posible añadir ventanas a los tubos, estableciendo las dimensiones/diámetro y la cantidad    
  - Cada tubo puede llevar ventanas ilimitadas
  - La capacidad de los ingletes se ha aumentado hasta 10
  - Se ha arreglado error donde no aceptaba 0 taladros
  - Leves mejoras de interfaz sobre dicha función
- - Arreglo de errores  menores
+ - La cantidad de tubos del pedido ya se actualiza adecuadamente tras borrar una línea
+ - Arreglo de errores menores
  - Cambios a nivel de funcionamiento interno
- - ATENCIÓN: SERÁ NECESARIO CAMBIAR EL DOCUMENTO "Calculo tiempos.xlsx" PARA EL CORRECTO FUNCIONAMIENTO
+ - ATENCIÓN: SERÁ NECESARIO CAMBIAR EL DOCUMENTO "Calculo tiempos.xlsx" PARA EL CORRECTO FUNCIONAMIENTO   
 
 Cualquier sugerencia o error detectado en la nueva versión no dudes en contactar    
