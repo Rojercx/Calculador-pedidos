@@ -1,14 +1,12 @@
-CÁCLCULO DE TIEMPOS MEJORADO
+SUBIR ARCHIVOS PDF
 
- - La función "Cálculo tiempo corte" se ha mejorado y ampliado su funcionalidad
- - Ya es posible añadir ventanas a los tubos, estableciendo las dimensiones/diámetro y la cantidad    
- - Cada tubo puede llevar ventanas ilimitadas
- - La capacidad de los ingletes se ha aumentado hasta 10
- - Se ha arreglado error donde no aceptaba 0 taladros
- - Leves mejoras de interfaz sobre dicha función
- - La cantidad de tubos del pedido ya se actualiza adecuadamente tras borrar una línea
- - Arreglo de errores menores
- - Cambios a nivel de funcionamiento interno
- - ATENCIÓN: SERÁ NECESARIO CAMBIAR EL DOCUMENTO "Calculo tiempos.xlsx" PARA EL CORRECTO FUNCIONAMIENTO   
+ - Nueva función que permite subir archivos .pdf y crear el pedido de manera automática  
+ - La función "Cálculo tiempo corte" ya funciona correctamente con tubos perfilados
+ - SE REQUIERE NUEVA TABLA PARA "Cálculos tiempo corte"
+ - Se han mejorado las interacciones con pedidos pequeños
+ - Ya es posible utilizar la función "Contrastar" con pedidos pequeños
+ - Mejoras de interfaz en la función "Contrastar"
+ - Arreglo de varios errores y fallos
+ - Varios cambios a nivel de funcionamiento interno
 
 Cualquier sugerencia o error detectado en la nueva versión no dudes en contactar    
