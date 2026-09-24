@@ -1,4 +1,4 @@
-ARREGLOS MENORES
+OK YA ESTA EN -0.121
 
  - Se ha implementado una pequeña barra de progreso para indicar que el programa se está ejecutando durante procesos largos   
  - Se ha solucionado error en el cálculo total de tubos cuando la longitud de estos rozaba la longitud límite
