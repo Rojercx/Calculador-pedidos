@@ -1,12 +1,10 @@
-SUBIR ARCHIVOS PDF
+ARREGLOS MENORES
 
- - Nueva función que permite subir archivos .pdf y crear el pedido de manera automática  
- - La función "Cálculo tiempo corte" ya funciona correctamente con tubos perfilados
- - SE REQUIERE NUEVA TABLA PARA "Cálculos tiempo corte"
- - Se han mejorado las interacciones con pedidos pequeños
- - Ya es posible utilizar la función "Contrastar" con pedidos pequeños
- - Mejoras de interfaz en la función "Contrastar"
+ - Se ha implementado una pequeña barra de progreso para indicar que el programa se está ejecutando durante procesos largos   
+ - Se ha solucionado error en el cálculo total de tubos cuando la longitud de estos rozaba la longitud límite
+ - Pequeños errores solucionados en el apartado "Informacion adicional"
+ - Anteriormente el programa podía confundir diferentes ofertas con el mismo formato, se ha solucionado
  - Arreglo de varios errores y fallos
- - Varios cambios a nivel de funcionamiento interno
+ - Pequeños cambios a nivel de funcionamiento interno
 
 Cualquier sugerencia o error detectado en la nueva versión no dudes en contactar    
